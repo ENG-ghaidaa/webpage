@@ -1,0 +1,18 @@
+-- Create Database
+CREATE DATABASE IF NOT EXISTS person_database;
+
+-- Use Database
+USE person_database;
+
+-- Create People Table
+CREATE TABLE IF NOT EXISTS people (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    age INT NOT NULL,
+    status TINYINT DEFAULT 0
+);
+
+-- Insert Sample Data (Optional)
+INSERT INTO people (name, age, status) VALUES
+('ghaida hassan ', 25, 0),
+('Jana', 30, 1);
