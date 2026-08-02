@@ -53,4 +53,4 @@ Features:
 - Dynamic table updates.
 
 <img width="692" height="392" alt="image" src="https://github.com/user-attachments/assets/5c35b9a3-6332-44b2-9893-c4ea3177e9d1" />
-
+https://simple-web-app--ghaidaahassan20.replit.app/
